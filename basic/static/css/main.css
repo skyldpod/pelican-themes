@@ -7,7 +7,7 @@ body {
   max-width: 800px;
   min-height: 200px;
   padding: 1em;
-  margin: 5% 10%;
+  margin: auto;
   border: thin solid gray;
   border-radius: 5px;
   display: block;
