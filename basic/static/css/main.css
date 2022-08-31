@@ -4,8 +4,9 @@ body {
   color: #111;
   width: 80%;
   min-width: 400px;
+  max-width: 800px;
   min-height: 200px;
-  padding: 1em;
+  padding: 5px;
   margin: 5% 10%;
   border: thin solid gray;
   border-radius: 5px;
