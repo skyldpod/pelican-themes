@@ -1,4 +1,4 @@
-.highlight  { background: #dfdfdf; color: #000000}
+.highlight  { background: #dfdfdf; color: #000000; border: thin solid}
 .highlight .hll { background-color: #ffffcc }
 .highlight .c { color: #656763} /* Comment */
 .highlight .err { color: #000000} /* Error */
